@@ -26,6 +26,7 @@ Program ini dibagi menjadi beberapa fungsi inti sesuai dengan standar akademik a
 ##  Cara Menjalankan Program
 
 1. **Clone atau Download Repositori**
+   ```bash
    git clone https://github.com/achmdhisyam/kriptografi-rc4
 
 2. **Buka Terminal / Command Prompt**
